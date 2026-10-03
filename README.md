@@ -3,6 +3,7 @@
 The Fabric Sales Report is an end-to-end sales analytics solution built using Microsoft Fabric and Power BI.
 The project demonstrates an automated data workflow where sales data is ingested using a Microsoft Fabric Data Pipeline, processed using the Medallion Architecture, stored in a Fabric Lakehouse, and connected to Power BI for interactive reporting and analysis.
 <img width="946" height="506" alt="Screenshot 2026-10-02 020617" src="https://github.com/user-attachments/assets/85c7c32e-e819-40ad-b92f-6e9923e91dd9" />
+
 **Business Objective**
 The objective of this project is to help business teams:
 Monitor overall sales performance
@@ -62,6 +63,7 @@ Preparing analytical fields
 Creating aggregations where required
 Validating data for reporting
 Connecting the prepared data to Power BI
+<img width="954" height="484" alt="Screenshot 2026-09-30 130330" src="https://github.com/user-attachments/assets/ef06a422-8baf-4e8c-b090-11aa7d566d7b" />
 
 **Key Business Questions**
 The dashboard helps answer:
